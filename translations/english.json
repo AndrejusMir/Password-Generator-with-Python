@@ -1,0 +1,17 @@
+{
+    "Password Generator App": "Password Generator App",
+    "Website": "Website",
+    "Username/Email": "Username/Email",
+    "Password Length": "Password Length",
+    "Include Digits": "Include Digits",
+    "Include Symbols": "Include Symbols",
+    "Generate": "Generate",
+    "Generated Password": "Generated Password",
+    "Save to File": "Save to File",
+    "Please enter a valid length": "Please enter a valid length",
+    "Please generate a password first": "Please generate a password first",
+    "Error": "Error",
+    "Success": "Success",
+    "Data saved to": "Data saved to",
+    "Select language": "Select language"
+}

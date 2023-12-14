@@ -1,0 +1,17 @@
+{
+    "Password Generator App": "Генератор паролей",
+    "Website": "Веб-сайт",
+    "Username/Email": "Имя пользователя/Эл. почта",
+    "Password Length": "Длина пароля",
+    "Include Digits": "Включить цифры",
+    "Include Symbols": "Включить символы",
+    "Generate": "Сгенерировать",
+    "Generated Password": "Сгенерированный пароль",
+    "Save to File": "Сохранить в файл",
+    "Please enter a valid length": "Пожалуйста, введите действительную длину",
+    "Please generate a password first": "Сначала сгенерируйте пароль",
+    "Error": "Ошибка",
+    "Success": "Успешно",
+    "Data saved to": "Данные сохранены в",
+    "Select language": "Выберите язык"
+}

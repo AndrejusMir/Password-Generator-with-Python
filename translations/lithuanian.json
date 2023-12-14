@@ -1,0 +1,18 @@
+{
+    "Password Generator App": "Slaptažodžio Generatorius",
+    "Website": "Interneto svetainė",
+    "Username/Email": "Vartotojo vardas/El. paštas",
+    "Password Length": "Slaptažodžio ilgis",
+    "Include Digits": "Įtraukti skaičius",
+    "Include Symbols": "Įtraukti simbolius",
+    "Generate": "Generuoti",
+    "Generated Password": "Sugeneruotas Slaptažodis",
+    "Save to File": "Išsaugoti faile",
+    "Please enter a valid length": "Prašome įvesti tinkamą slaptažodžio ilgį",
+    "Please generate a password first": "Pirmiausia sugeneruokite slaptažodį",
+    "Error": "Klaida",
+    "Success": "Sėkmingai",
+    "Data saved to": "Duomenys išsaugoti",
+    "Select language": "Pasirinkite kalbą"
+
+}
